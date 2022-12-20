@@ -1,0 +1,10 @@
+.DS_Store
+*.pyc
+__pycache__/
+.idea
+.env
+.vscode
+addons_enterprise/
+addons_themes/
+# compiled python files
+*.py[co]

@@ -1,0 +1,3 @@
+flake8
+pylint_odoo
+pre-commit
